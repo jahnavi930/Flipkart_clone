@@ -1,4 +1,4 @@
-import paytmchecksum from '../paytm/PaytmChecksum.js';
+{/*import paytmchecksum from '../paytm/PaytmChecksum.js';
 import { paytmParams, paytmMerchantkey } from '../index.js';
 import formidable from 'formidable';
 import https from 'https';
@@ -65,4 +65,4 @@ export const paymentResponse = (request, response) => {
     } else {
         console.log("Checksum Mismatched");
     }
-}
+}*/}

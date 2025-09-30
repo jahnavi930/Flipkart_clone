@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mongoose-plugin-autoinc-fix": "^1.2.1"
+  }
+}
