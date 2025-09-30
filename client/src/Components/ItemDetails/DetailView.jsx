@@ -8,7 +8,6 @@ import ProductDetail from './ProductDetail';
 import { getProductDetails } from '../../redux/actions/productActions';
 
 // Import your Navbar component (which contains Home, MenDropDown, etc.)
-import Navbar from '../Dropdowns/Navbar';
 
 const Component = styled(Box)`
   margin-top: 55px;
