@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "mongoose-plugin-autoinc-fix": "^1.2.1"
+    "mongoose-plugin-autoinc-fix": "^1.2.1",
+    "mongoose-sequence": "^6.0.1"
   }
 }
